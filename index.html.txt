@@ -1,0 +1,11 @@
+ 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jenkins CI/CD Demo</title>
+</head>
+<body>
+    <h1>CI/CD Pipeline Successful!</h1>
+    <p>Build completed successfully using Jenkins.</p>
+</body>
+</html>
